@@ -1,5 +1,1 @@
-words = {
-	'accordance',
-	'airfield',
-	'formula',
-}
+var words = ['accordance', 'airfield', 'formula']
