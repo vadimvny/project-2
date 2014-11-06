@@ -1,4 +1,4 @@
-words.js = {
+words = {
 	'accordance',
 	'airfield',
 	'formula',
